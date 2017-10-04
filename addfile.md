@@ -1,1 +1,1 @@
-add file test
+how to use GitHub
